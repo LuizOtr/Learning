@@ -1,0 +1,5 @@
+print('')
+print('=====DESAFIO 30=====')
+print('-'*82)
+print('Crie um programa que leia um número inteiro e mostre na tela se ele é par ou impar')
+print('-'*82)
