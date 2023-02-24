@@ -1,0 +1,5 @@
+print('')
+print('=====DESAFIO 24=====')
+print('-'*84)
+print('Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com santo')
+print('-'*84)
